@@ -1,0 +1,39 @@
+
+.mainHeader {
+	text-align: center;
+}
+
+.left {
+	text-align: left
+	height: 500px;
+	width: 500px;
+}
+
+.middle {
+	text-align: middle;
+	height: 500px;
+	width: 500px;
+}
+
+.right {
+	text-align: right;
+	height: 500px;
+	width: 500px;
+	float: right;
+}
+
+.name {
+	float: left;
+}
+
+.pic {
+	float: left;
+}
+
+.paragraph {
+
+}
+
+.contact {
+
+}
